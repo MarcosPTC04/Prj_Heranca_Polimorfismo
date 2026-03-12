@@ -60,6 +60,6 @@ O método então exibe os dados no console, demonstrando o uso do polimorfismo.
 
 ## 👨‍💻 Autor
 
-Marcos Antonio
-Curso: Análise e Desenvolvimento de Sistemas
+Marcos Antonio  
+Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: Programação Orientada a Objetos I
