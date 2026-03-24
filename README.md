@@ -18,9 +18,9 @@ Manipulação de arquivos: Gravação e salvamento em .txt
 Controle de versão: Git
 Plataforma de hospedagem: GitHub
 
-## 📋 Estrutura do Código
-
 ---
+
+## 📋 Estrutura do Código
 
 O programa foi organizado seguindo os seguintes critérios:
 
@@ -54,6 +54,6 @@ O método exibe os dados no console e também os grava em um arquivo .txt, demon
 
 ## 👨‍💻 Autor
 
-Marcos Antonio
-Curso: Análise e Desenvolvimento de Sistemas
+Marcos Antonio  
+Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: Programação Orientada a Objetos I
